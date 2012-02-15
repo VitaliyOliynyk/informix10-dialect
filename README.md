@@ -12,6 +12,7 @@ Hibernate dialect for Informix >= 10 version
 
 # Usage:
 Set the hibernate.dialect property to eu.vitaliy.hibernate.dialect.Informix10Dialect
+
 *  for Hibernate < 4 version:
 
 ```
